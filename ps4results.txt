@@ -1,0 +1,21 @@
+Test 1 Result:
+ERROR: INCORRECT FORMAT
+
+Test 2 Result:
+ERROR: INCORRECT FORMAT
+
+Test 3 Result:
+-12.909091
+
+Test 4 Result:
+85.333333
+
+Test 5 Result:
+ERROR: INCORRECT FORMAT
+17.000000
+
+Test 6 Result:
+ERROR: INCORRECT FORMAT
+
+Test 7 Result:
+373.248000

@@ -1,0 +1,33 @@
+Infix: 4 + 8 * 3
+Postfix: 4 8 3 * + 
+Result: 28.000000
+
+Infix: ( 4 + 8 ) * 3
+Postfix: 4 8 + 3 *
+Result: 36.000000
+
+Infix: 6 + 9 + 4 ^ 2
+Postfix: 6 9 + 4 2 ^ +
+Result: 31.000000
+
+Infix: 46 + ( 8 * 4 ) / 2
+Postfix: 46 8 4 * 2 / +
+Result: 62.000000
+
+Infix: 7 ^ 2 * ( 25 + 10 / 5 ) - 13
+Postfix: 7 2 ^ 25 10 5 / + * 13 -
+Result: 1310.000000
+
+Infix: ( 18 / 3 ) ^ 2 + ( ( 13 + 7 ) * 5 ^ 2 )
+Postfix: 18 3 / 2 ^ 13 7 + 5 2 ^ * +
+Result: 536.000000
+
+Infix: ( 18 / 3 ) ^ 2 + ( ( 13 + 7 ) ) * 5 ^ 2 )
+Postfix: ERROR: PARENTHESIS MISMATCH
+Result: 0.000000
+
+Infix: ( 18 / 3 ) ^ 2 + ( ( 13 + 7 ) * 5 ? 2 )
+Postfix: ERROR: UNRECOGNIZED OPERAND
+Result: 0.000000
+
+

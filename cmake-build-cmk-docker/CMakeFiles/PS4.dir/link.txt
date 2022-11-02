@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/PS4.dir/main.c.o CMakeFiles/PS4.dir/stack.c.o CMakeFiles/PS4.dir/rpn.c.o CMakeFiles/PS4.dir/errors.c.o CMakeFiles/PS4.dir/rpn-convert.c.o CMakeFiles/PS4.dir/node.c.o -o PS4 

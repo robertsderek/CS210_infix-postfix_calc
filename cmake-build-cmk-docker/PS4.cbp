@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PS4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PS4">
+				<Option output="/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/PS4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 PS4"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PS4/fast">
+				<Option output="/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/PS4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 PS4/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/tmp/tmp.oMJnHfKPYx/cmake-build-cmk-docker/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/errors.c">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/errors.h">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/main.c">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/node.c">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/node.h">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/rpn-convert.c">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/rpn-convert.h">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/rpn.c">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/rpn.h">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/stack.c">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/stack.h">
+			<Option target="PS4"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.oMJnHfKPYx/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
